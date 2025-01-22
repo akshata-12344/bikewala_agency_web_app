@@ -17,3 +17,11 @@ Frontend:HTML,CSS,Bootstrap
 Backend language:Python
 Backend Framework:django
 Database:Sqlite3
+
+# Home Page:
+![image](https://github.com/user-attachments/assets/5e2681fa-e0c7-4de2-8ff6-fe97c8895a35)
+
+# Show Bike Page:
+![image](https://github.com/user-attachments/assets/c00ea5d2-971a-413d-9125-907faae024ec)
+
+
